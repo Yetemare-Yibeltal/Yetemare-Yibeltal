@@ -38,7 +38,7 @@
 
 🎨 Frontend
  
-<p align="left">
+ <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin-right:15px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin-right:15px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin-right:15px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,7 +106,7 @@
 </p>
 
 
-## 🤖 AI / ML
+## 🤖 AI  AND  ML
 
 
 <p align="left">
@@ -163,12 +163,12 @@ Injibara University (2022 – Present)
 
 <p align="left">
 
-<a href="https://t.me/YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/@yibeltalyitayew2024"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/https://www.instagram.com/accounts/edit/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/YOUR_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/YOUR_USERNAME"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
+<a href="https://[facebook.com/YOUR_USERNAME](https://web.facebook.com/login.php?next=https%3A%2F%2Fweb.facebook.com%2Ffriends%2Frequests%2F%3Fprofile_id%3D100088874318517)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
 
 </p>
 
