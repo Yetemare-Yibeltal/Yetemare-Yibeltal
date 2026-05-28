@@ -133,25 +133,60 @@
 * Real-time video conferencing application
 
 
-### 🧰 Experience
 
-**Junior Full Stack Developer (Freelance & Personal Projects)**
-📅 2022 – Present
+
+## 🧰 Experience
+
+**Full Stack Developer (Freelance & Personal Projects)**
+📅 2023 – Present
 
 * Built full-stack web and mobile applications
 * Designed responsive UI and scalable backend systems
 * Developed REST APIs and integrated Firebase services
 * Improved performance and usability of applications
 
----
+
+
+
 
 ## 🎓 Education
 
 Software Engineering Student
-Injibara University (2021 – Present)
+Injibara University (2022 – Present)
 
----
 
-## 📫 Contact
+
+
+
+## 📫 Contact Me
+
+
+<p align="left">
+
+<a href="https://t.me/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="55"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="55"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="55"/>
+</a>
+
+<a href="https://www.youtube.com/@YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
+</a>
+
+<a href="https://facebook.com/YOUR_USERNAME" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
+</a>
+
+</p>
 
 📧 Email: [yibeltalyitayew25@gmail.com](mailto:yibeltalyitayew25@gmail.com)
