@@ -161,32 +161,34 @@ Injibara University (2022 – Present)
 ## 📫 Contact Me
 
 
-<p align="left">
+<div style="display:flex; gap:20px; align-items:center;">
 
-<a href="https://t.me/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="55"/>
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="55"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<a href="https://instagram.com/YOUR_USERNAME">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="55"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<a href="https://twitter.com/YOUR_USERNAME">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="55"/>
 </a>
 
-<a href="https://www.youtube.com/@YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="55"/>
+<a href="https://www.youtube.com/@YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME" style="text-decoration:none; margin-right:15px;">
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
 </a>
 
-<a href="https://facebook.com/YOUR_USERNAME" style="text-decoration:none;">
+<a href="https://facebook.com/YOUR_USERNAME">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/>
 </a>
 
-</p>
+</div>
+
+
 
 📧 Email: [yibeltalyitayew25@gmail.com](mailto:yibeltalyitayew25@gmail.com)
