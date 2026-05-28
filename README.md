@@ -4,46 +4,59 @@
 
 ---
 
+
 ## 🚀 About Me
 
-💻 Software Engineer: Designing scalable, efficient, and maintainable software solutions.
 
-🌐 Full-Stack Developer: Building complete web applications with modern frontend and backend technologies.
-
-🔬 Research Interest: Interested in Machine Learning and Deep Learning, currently beginning deeper learning in AI fields.
-
-🌿 Continuously improving skills in modern web development, backend systems, and cloud technologies.
-
-💡 Passionate about solving real-world problems through impactful digital solutions.
+    💻 Software Engineer: Designing scalable, efficient, and maintainable software solutions.
+    
+    🌐 Full-Stack Developer: Building complete web applications with modern frontend and backend technologies.
+    
+    🔬 Research Interest: Interested in Machine Learning and Deep Learning, currently beginning deeper learning in AI fields.
+    
+    🌿 Continuously improving skills in modern web development, backend systems, and cloud technologies.
+    
+    💡 Passionate about solving real-world problems through impactful digital solutions.
 
 ---
+
 
 ## 🎯 Vision & Focus
 
-⚙️ Build scalable and impactful full-stack systems
-🧠 Begin exploring and developing strong understanding in Machine Learning and Deep Learning
-🏛️ Grow as a Backend & AI engineer
-🌐 Solve real-world problems with smart technology
-🚀 Become a tech leader and solution builder
+
+    ⚙️  Build scalable and impactful full-stack systems
+    🧠  Begin exploring and developing strong understanding in Machine Learning and Deep Learning
+    🏛️  Grow as a Backend & AI engineer
+    🌐  Solve real-world problems with smart technology
+    🚀  Become a tech leader and solution builder
 
 ---
 
+
 ## 🛠️ Tech Stack
+
 
 ### 🎨 Frontend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript
-💨 Tailwind CSS
-🅱️ Bootstrap
+## 🎨 Frontend
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML5  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS3  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React Native  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/> Tailwind CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap  
 ---
 
 ### ⚙️ Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express.js
-📡 RESTful APIs <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20"/> Firebase
+## ⚙️ Backend
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express.js  
+📡 RESTful APIs  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20"/> Firebase  
 
 ### 🗄️ Database
 
