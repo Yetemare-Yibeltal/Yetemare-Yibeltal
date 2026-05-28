@@ -161,14 +161,33 @@ Injibara University (2022 – Present)
 ## 📫 Contact Me
 
 
-<p align="left">
-<a href="https://t.me/YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/YOUR_USERNAME"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
-</p>
+<div align="left">
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" style="text-decoration:none;"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" style="text-decoration:none;"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" style="text-decoration:none;"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@YOUR_USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="40" style="text-decoration:none;"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="text-decoration:none;"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://facebook.com/YOUR_USERNAME">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" style="text-decoration:none;"/>
+</a>
+
+</div>
 
 
 📧 Email: [yibeltalyitayew25@gmail.com](mailto:yibeltalyitayew25@gmail.com)
