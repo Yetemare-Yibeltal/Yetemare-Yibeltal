@@ -1,6 +1,7 @@
 # Hi, I'm Yibeltal Yitayew 👋
 
-💻 Software Engineer | Full Stack Developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MernStack+Developer;Frontend+Engineer)](https://git.io/typing-svg)
 
 ---
 
