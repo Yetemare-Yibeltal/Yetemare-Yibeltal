@@ -121,7 +121,12 @@
 </p>
 
 
-## 🧰 Projects
+
+
+
+
+
+## 📁 Projects
 
 🔹 Netlify Clone
 * Deployment platform with drag-and-drop upload and live preview system
@@ -135,7 +140,12 @@
 
 
 
-## 🧰 Experience
+
+
+
+
+
+## 💼 Experience
 
 **Full Stack Developer (Freelance & Personal Projects)**
 📅 2023 – Present
@@ -149,10 +159,15 @@
 
 
 
+
+
+
 ## 🎓 Education
 
 Software Engineering Student
 Injibara University (2022 – Present)
+
+
 
 
 
