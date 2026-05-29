@@ -169,7 +169,27 @@ Injibara University (2022 – Present)
 
 
 
+## 📊 GitHub Status
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yetemare-Yibeltal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yetemare-Yibeltal&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9"/>
+</div>
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yetemare-Yibeltal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=ff6b6b&currStreakLabel=00C2FF)](https://git.io/streak-stats)
+</div>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yetemare-Yibeltal&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yetemare-Yibeltal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 
 
