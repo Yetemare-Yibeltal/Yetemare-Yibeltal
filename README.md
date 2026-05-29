@@ -277,7 +277,7 @@
 <div align="left">
 
 <a href="https://t.me/@yibeltalyitayew2024">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="38" title="Telegram"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="38" title="Telegram" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/accounts/edit/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="38" title="Instagram"/>
