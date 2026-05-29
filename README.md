@@ -6,12 +6,11 @@
 
 
 <div align="center">
-
 <table width="100%" border="0">
 <tr>
 <td width="50%" align="left" valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer;AI+%26+ML+Explorer+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer;AI+%26+ML+Explorer+🤖)](https://git.io/typing-svg)
 
 </td>
 <td width="50%" align="right" valign="middle">
@@ -21,7 +20,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 
