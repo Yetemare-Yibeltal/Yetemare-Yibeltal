@@ -179,34 +179,65 @@ Injibara University (2022 – Present)
 
 
 
-## 📊 GitHub Status
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yetemare-Yibeltal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yetemare-Yibeltal&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9"/>
-</div>
+## ⚡ GitHub Status
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yetemare-Yibeltal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=ff6b6b&currStreakLabel=00C2FF)](https://git.io/streak-stats)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,33:7B00FF,66:00D4FF,100:00FF88&height=100&section=header&fontSize=0)
+
 </div>
+
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yetemare-Yibeltal&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=Yetemare-Yibeltal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FF0080&icon_color=00D4FF&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yetemare-Yibeltal&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF0080&text_color=FFFFFF&cache_seconds=1800"/>
+
+</div>
+
+<div align="center">
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=Yetemare-Yibeltal&theme=tokyonight&hide_border=true&background=000000&ring=FF0080&fire=FF6600&currStreakNum=00FF88&sideNums=00D4FF&currStreakLabel=FF0080&sideLabels=7B00FF&dates=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yetemare-Yibeltal&bg_color=000000&color=00FF88&line=FF0080&point=00D4FF&area=true&area_color=1A0030&hide_border=true&custom_title=⚡+Yibeltal's+Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,33:00D4FF,66:7B00FF,100:FF0080&height=100&section=footer&fontSize=0)
+
 </div>
 
 ---
-
-
-
-
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yetemare-Yibeltal&theme=dark&column=4&margin-w=15&margin-h=15)](https://github.com/Yetemare-Yibeltal)
+![](https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,33:7B00FF,66:00D4FF,100:00FF88&height=4&fontSize=0)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yetemare-Yibeltal&theme=onestar&column=4&margin-w=12&margin-h=12&no-frame=true)](https://github.com/Yetemare-Yibeltal)
 
 </div>
 
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/⚡_Full_Stack-Developer-FF0080?style=for-the-badge&labelColor=000000&logoColor=white)
+![](https://img.shields.io/badge/🤖_AI_/_ML-Explorer-7B00FF?style=for-the-badge&labelColor=000000&logoColor=white)
+![](https://img.shields.io/badge/☁️_Cloud-Engineer-00D4FF?style=for-the-badge&labelColor=000000&logoColor=white)
+![](https://img.shields.io/badge/🌍_Open_to-Collaborate-00FF88?style=for-the-badge&labelColor=000000&logoColor=white)
+![](https://img.shields.io/badge/🔥_Backend-Engineer-FF6600?style=for-the-badge&labelColor=000000&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Yetemare-Yibeltal&style=for-the-badge&color=FF0080&label=👁️+VIEWS&labelColor=000000)
+
+</div>
 
 
 ## 📫 Contact Me
