@@ -18,13 +18,21 @@
 </td>
 <td width="50%" align="right" valign="middle">
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<a href="https://github.com/Yetemare-Yibeltal">
+<img src="https://github.com/Yetemare-Yibeltal/Yetemare-Yibeltal/raw/main/github_profile_photo.png"
+width="300"
+style="border-radius:50%; border:5px solid #00C2FF;"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+
+</div>
+
 
 
 ## 🚀 About Me
