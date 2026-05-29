@@ -235,7 +235,9 @@ Injibara University (2022 – Present)
 ![](https://img.shields.io/badge/☁️_Cloud-Engineer-00D4FF?style=for-the-badge&labelColor=000000&logoColor=white)
 ![](https://img.shields.io/badge/🌍_Open_to-Collaborate-00FF88?style=for-the-badge&labelColor=000000&logoColor=white)
 ![](https://img.shields.io/badge/🔥_Backend-Engineer-FF6600?style=for-the-badge&labelColor=000000&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Yetemare-Yibeltal&style=for-the-badge&color=FF0080&label=👁️+VIEWS&labelColor=000000)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yetemare-Yibeltal&style=for-the-badge&color=FF0080&label=👁️+ProfileViews&labelColor=000000)
 
 </div>
 
