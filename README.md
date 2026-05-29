@@ -4,11 +4,27 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MernStack+Developer;Frontend+Engineer)](https://git.io/typing-svg)
 
-<br/>
+
+
+<div align="center">
+
+<table width="100%" border="0">
+<tr>
+<td width="50%" align="left" valign="middle">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer;AI+%26+ML+Explorer+🤖)](https://git.io/typing-svg)
+
+</td>
+<td width="50%" align="right" valign="middle">
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</td>
+</tr>
+</table>
+
 </div>
-
 
 
 ## 🚀 About Me
