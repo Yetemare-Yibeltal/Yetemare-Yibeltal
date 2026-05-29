@@ -1,9 +1,19 @@
-# Hi, I'm Yibeltal Yitayew 👋
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3A0068,100:F72585&height=220&section=header&text=Yibeltal%20Yitayew&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=60&descSize=16&descColor=4CC9F0" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MernStack+Developer;Frontend+Engineer)](https://git.io/typing-svg)
 
----
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7209B7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yibeltal-yitayew)
+[![Telegram](https://img.shields.io/badge/-Telegram-F72585?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yibeltalyitayew2024)
+[![Gmail](https://img.shields.io/badge/-Email-4CC9F0?style=flat-square&logo=gmail&logoColor=white)](mailto:yibeltalyitayew25@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-FFBE0B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/edit/)
+[![GitHub](https://img.shields.io/badge/-GitHub-06D6A0?style=flat-square&logo=github&logoColor=white)](https://github.com/Yetemare-Yibeltal)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yetemare-Yibeltal&style=flat-square&color=F72585&label=Profile+Views)](https://github.com/Yetemare-Yibeltal)
+
+</div>
+<br/>
 
 
 ## 🚀 About Me
