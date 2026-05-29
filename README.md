@@ -4,21 +4,19 @@
 
 </div>
 
----
-
 
 <div align="center">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0">
 <tr>
-<td width="48%" align="center" valign="middle">
+<td width="50%" align="left" valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=435&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer;AI+%26+ML+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer;AI+%26+ML+Explorer+🤖)](https://git.io/typing-svg)
 
 </td>
-<td width="52%" align="center" valign="middle">
+<td width="50%" align="right" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Yetemare-Yibeltal/Yetemare-Yibeltal/main/profile-card.svg" width="100%"/>
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </td>
 </tr>
@@ -26,7 +24,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
