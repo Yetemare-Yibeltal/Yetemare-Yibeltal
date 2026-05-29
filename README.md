@@ -2,11 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9900CC,25:00CCAA,50:00CCAA,100:9900CC&height=250&section=header&text=Yibeltal%20Yitayew&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 
-</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MernStack+Developer;Frontend+Engineer)](https://git.io/typing-svg)
 
 <br/>
+</div>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7209B7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yibeltal-yitayew)
 [![Telegram](https://img.shields.io/badge/-Telegram-F72585?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yibeltalyitayew2024)
