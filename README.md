@@ -11,17 +11,6 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7209B7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yibeltal-yitayew)
-[![Telegram](https://img.shields.io/badge/-Telegram-F72585?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yibeltalyitayew2024)
-[![Gmail](https://img.shields.io/badge/-Email-4CC9F0?style=flat-square&logo=gmail&logoColor=white)](mailto:yibeltalyitayew25@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-FFBE0B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/edit/)
-[![GitHub](https://img.shields.io/badge/-GitHub-06D6A0?style=flat-square&logo=github&logoColor=white)](https://github.com/Yetemare-Yibeltal)
-[![Profile Views](https://komarev.com/ghpvc/?username=Yetemare-Yibeltal&style=flat-square&color=F72585&label=Profile+Views)](https://github.com/Yetemare-Yibeltal)
-
-</div>
-<br/>
-
-
 ## 🚀 About Me
 
 
