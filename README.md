@@ -6,23 +6,24 @@
 
 ---
 
+
 <div align="center">
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="55%" align="left" valign="middle">
+<td width="48%" align="center" valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=650&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer;AI+%26+ML+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=435&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer;AI+%26+ML+Explorer)](https://git.io/typing-svg)
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="52%" align="center" valign="middle">
 
-<a href="https://github.com/Yetemare-Yibeltal">
-  <img src="https://raw.githubusercontent.com/Yetemare-Yibeltal/Yetemare-Yibeltal/main/github_profile_photo.png" width="220"/>
-</a>
+<img src="https://raw.githubusercontent.com/Yetemare-Yibeltal/Yetemare-Yibeltal/main/profile-card.svg" width="100%"/>
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
